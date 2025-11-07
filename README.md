@@ -45,3 +45,8 @@ Heriot-Watt University, Edinburgh
 📧 mail.from.ashish@gmail.com  
 
 ## MQTT Topics
+
+iot/esp32-dht01/telemetry
+iot/esp32-dht01/cmd
+iot/esp32-dht01/events
+iot/esp32-dht01/ack
